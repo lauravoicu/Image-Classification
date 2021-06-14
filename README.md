@@ -1,9 +1,7 @@
 # Image Classification using Convolutional Neural Networks
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/voiculaura/)](https://www.linkedin.com/in/voiculaura/)
 
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/voiculaura/
 
 This project is an attempt to improve the image classification project developed for the EPFL "Applied Data Science and Machine Learning Program". The goal of the original project was to build an image classifier using the Swissroads data set which contains a couple of hundreds of images of vehicles found in the EPFL - Lausanne area categorized as cars, trucks, vans, bikes, motorcycles and others (only 280 training samples). There were 2 explicit goals for this project: one: to test and compare traditional ML classifiers, with no restriction on how to get around the fact that we only have 280 training samples and two: to build a CNN trained on the 280 samples and find different techniques to improve its performance.
 
